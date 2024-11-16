@@ -8,3 +8,7 @@ Aprendi a utilziar a aba de criação de recursos, na qual, foi me dito que poss
 Criando máquinas Virtuais na Azure
 Foi ensinado um tutorial de como criar maquinas virtuais, e tambem foi ensinado sobre as diversas configurações que podem ser feitas na VM, como por exemplo, configuração de redundancia, opções de disponibilidade.
 Alem de ensinar a criar uma conta de armazenamento, para auxiliar nas disponibilidades tanto da VM, quandos das aplicações.
+
+
+Configurando uma instância de Banco de Dados na Azure
+Aprendi a criar uma instancia de um banco de dados pela plataforma do azure, foi ensinado que precisamos ter uma VM para "acomodar" a instancia de DB.
